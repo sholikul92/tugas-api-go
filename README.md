@@ -25,17 +25,17 @@ You can access it with 'http://{url}:9000/users'
 * `'GET'`
 * `'http:{url}:9000/users'`
 
-### # Get user by id
+### # Get User By Id
 * `'GET'`
 * `'http:{url}:9000/users/{id}'`
 
 ---
-### # Update user
+### # Update User
 * `'PUT'`
 * `'http:{url}:9000/users/{id}'`
 
 ---
-### # Delete user
+### # Delete User
 * `'DELETE'`
 * `'http:{url}:9000/users/{id}'`
 
