@@ -16,6 +16,6 @@ You can access it with 'http://{url}:9000/users'
       "jurusan": "sistem informasi"
     }
   </pre>
-  * `nim` can't use number 0
-  * `nama` can`t use empty string
-  * `jurusan` can't use empty string
+  * `nim` can't be filled with an number 0
+  * `nama` can't be filled with an empty string
+  * `jurusan` can't be filled with an empty string
