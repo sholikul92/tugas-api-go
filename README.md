@@ -5,6 +5,7 @@ By default, this API runs on endpoint '/users' and on port '9000'<br>
 You can access it with 'http://{url}:9000/users'
 
 ---
+### # Add User
 * `'POST'`
 * `'http:{url}:9000/users'`
 * `body request`
