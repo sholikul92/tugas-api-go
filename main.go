@@ -13,7 +13,7 @@ func main() {
 
 	app := gin.Default()
 
-	// endpoint
+	// endpoint url
 	app.POST("/users", routes.AddUser)
 	app.GET("/users", routes.GetAllUsers)
 	app.GET("/users/:id", routes.GetUserById)
