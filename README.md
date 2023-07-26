@@ -19,3 +19,24 @@ You can access it with 'http://{url}:9000/users'
   * `nim` can't be filled with an number 0
   * `nama` can't be filled with an empty string
   * `jurusan` can't be filled with an empty string
+    
+---
+### # Get All Users
+* `'GET'`
+* `'http:{url}:9000/users'`
+
+### # Get user by id
+* `'GET'`
+* `'http:{url}:9000/users/{id}'`
+
+---
+### # Update user
+* `'PUT'`
+* `'http:{url}:9000/users/{id}'`
+
+---
+### # Delete user
+* `'DELETE'`
+* `'http:{url}:9000/users/{id}'`
+
+
